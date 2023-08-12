@@ -1,3 +1,2 @@
-def update_dictionary(a_dictionary, key, value):
-    a_dictionary[key] = value
-    return a_dictionary
+def common_elements(set_1, set_2):
+    return set_1.intersection(set_2)
